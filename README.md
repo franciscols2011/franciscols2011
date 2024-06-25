@@ -1,4 +1,4 @@
-# 💫 Sobre Mi:
+# 💫 Sobre mi:
 Desarrollador de software altamente motivado con experiencia aplicando conocimientos técnicos en JavaScript, React, Python y Java para diseñar y desarrollar aplicaciones fáciles de usar. Capacidad demostrada para resolver problemas complejos y ofrecer soluciones eficientes perfeccionadas a través de 3 años en atención al cliente. Excelentes habilidades de comunicación y colaboración, fomentando interacciones positivas con partes interesadas tanto técnicas como no técnicas. Deseoso de aprovechar la competencia técnica y las habilidades interpersonales para contribuir a un equipo de desarrollo colaborativo e innovador.<br>
 
 
